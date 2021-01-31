@@ -1,0 +1,75 @@
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\taskManager.exe
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\taskManager.deps.json
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\taskManager.runtimeconfig.json
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\taskManager.runtimeconfig.dev.json
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\taskManager.dll
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\taskManager.pdb
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\taskManager.Views.dll
+C:\Users\acer\Desktop\taskManager\bin\Debug\netcoreapp3.1\taskManager.Views.pdb
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfo.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.TagHelpers.input.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.TagHelpers.output.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.RazorCoreGenerate.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.RazorTargetAssemblyInfo.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.RazorTargetAssemblyInfo.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.Views.pdb
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\staticwebassets\taskManager.StaticWebAssets.Manifest.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\staticwebassets\taskManager.StaticWebAssets.xml
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.dll
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.pdb
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.genruntimeconfig.cache
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\taskManager.csproj.CopyComplete
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\acer\Desktop\taskManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Tasks.cshtml.g.cs
+C:\Users\acer\Desktop\1taskManager\obj\Debug\netcoreapp3.1\taskManager.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\1taskManager\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\1taskManager\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfo.cs
+C:\Users\acer\Desktop\1taskManager\obj\Debug\netcoreapp3.1\taskManager.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\1taskManager\obj\Debug\netcoreapp3.1\taskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\1taskManager\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\1taskManager\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\1taskManager\obj\Debug\netcoreapp3.1\taskManager.dll
+C:\Users\acer\Desktop\1taskManager\obj\Debug\netcoreapp3.1\taskManager.pdb
+C:\Users\acer\Desktop\tasksManager\obj\Debug\netcoreapp3.1\taskManager.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\tasksManager\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\tasksManager\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfo.cs
+C:\Users\acer\Desktop\tasksManager\obj\Debug\netcoreapp3.1\taskManager.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\tasksManager\obj\Debug\netcoreapp3.1\taskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\tasksManager\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\tasksManager\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\tasksManager\obj\Debug\netcoreapp3.1\taskManager.dll
+C:\Users\acer\Desktop\tasksManager\obj\Debug\netcoreapp3.1\taskManager.pdb
+C:\Users\acer\Desktop\tasksManager - Copy\obj\Debug\netcoreapp3.1\taskManager.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\tasksManager - Copy\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\tasksManager - Copy\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfo.cs
+C:\Users\acer\Desktop\tasksManager - Copy\obj\Debug\netcoreapp3.1\taskManager.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\tasksManager - Copy\obj\Debug\netcoreapp3.1\taskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\tasksManager - Copy\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\tasksManager - Copy\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\tasksManager - Copy\obj\Debug\netcoreapp3.1\taskManager.dll
+C:\Users\acer\Desktop\tasksManager - Copy\obj\Debug\netcoreapp3.1\taskManager.pdb
+C:\Users\acer\Desktop\taskManager - Copy\obj\Debug\netcoreapp3.1\taskManager.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\taskManager - Copy\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\taskManager - Copy\obj\Debug\netcoreapp3.1\taskManager.AssemblyInfo.cs
+C:\Users\acer\Desktop\taskManager - Copy\obj\Debug\netcoreapp3.1\taskManager.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\taskManager - Copy\obj\Debug\netcoreapp3.1\taskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\taskManager - Copy\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\taskManager - Copy\obj\Debug\netcoreapp3.1\taskManager.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\taskManager - Copy\obj\Debug\netcoreapp3.1\taskManager.dll
+C:\Users\acer\Desktop\taskManager - Copy\obj\Debug\netcoreapp3.1\taskManager.pdb
